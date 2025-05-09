@@ -17,10 +17,10 @@ global.egg = ""
 global.location = ""
 
 // Payment Gateway
-global.merchant = ""
-global.apikeyOrkut = ""
-global.codeqr = ""
+global.merchant = "OK2414589"
+global.apikeyOrkut = "378541317456660362414589OKCT681794BE0B24C92C002200C170028B7A"
+global.codeqr = "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214625377508189360303UMI51440014ID.CO.QRIS.WWW0215ID20243101283740303UMI5204541153033605802ID5919NEKOSTORE OK14919706009TANGERANG61051512362070703A01630429B3"
 
 // other
-global.mail = ""
-global.pass = ""
+global.mail = "alfatharraby05@gmail.com"
+global.pass = "Alfath123@"
